@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">&gt; USB // HOST_MODE</string>
+    <string name="app_name">USB host mode</string>
+    <string name="status_host">[ HOST LINK: ONLINE ]</string>
+    <string name="status_periph">[ HOST LINK: OFFLINE ]</string>
+    <string name="host_on">HOST: ON</string>
+    <string name="host_off">HOST: OFF</string>
+    <string name="note">Turn it on, then plug the OTG adapter. This phone cannot power the device itself: use an OTG cable with external 5V. While it is on, USB to a PC (adb, storage, charging) does not work; turn it off first. It also turns off after a reboot.</string>
+    <string name="set_failed">Could not change the USB mode</string>
+</resources>

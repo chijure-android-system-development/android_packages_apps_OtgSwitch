@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">&gt; USB // MODO_HOST</string>
+    <string name="app_name">Modo host USB</string>
+    <string name="status_host">[ ENLACE HOST: ACTIVO ]</string>
+    <string name="status_periph">[ ENLACE HOST: INACTIVO ]</string>
+    <string name="host_on">HOST: SI</string>
+    <string name="host_off">HOST: NO</string>
+    <string name="note">Actívalo y luego conecta el adaptador OTG. Este teléfono no alimenta el dispositivo: usa un cable OTG con 5V externos. Mientras esté activo, el USB hacia un PC (adb, almacenamiento, carga) no funciona; desactívalo antes. También se desactiva al reiniciar.</string>
+    <string name="set_failed">No se pudo cambiar el modo USB</string>
+</resources>
